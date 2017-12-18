@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/junit-4.11-SNAPSHOT-20120416-1530.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-aop-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-aspects-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-instrument-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-instrument-tomcat-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-jdbc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-jms-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-orm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-oxm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-struts-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-test-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-tx-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-web-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/Librerías/spring-webmvc-3.2.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

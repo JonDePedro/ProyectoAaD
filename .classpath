@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="spring/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/junit-4.11-SNAPSHOT-20120416-1530.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-aop-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-aspects-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-instrument-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-instrument-tomcat-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-jdbc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-jms-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-orm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-oxm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-struts-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-test-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-tx-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-web-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-webmvc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adminportatil/Desktop/LIBRERIAS SPRING JDBC-20171201/LIBRERIAS SPRING JDBC/spring-webmvc-portlet-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aop-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aop-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aop-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aspects-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aspects-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-aspects-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-beans-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-beans-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-beans-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-indexer-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-indexer-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-indexer-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-support-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-support-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-support-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-core-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-core-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-core-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-expression-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-expression-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-expression-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-instrument-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-instrument-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-instrument-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jcl-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jcl-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jcl-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jdbc-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jdbc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jdbc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jms-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jms-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-jms-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-messaging-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-messaging-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-messaging-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-orm-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-orm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-orm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-oxm-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-oxm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-oxm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-test-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-test-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-test-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-tx-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-tx-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-tx-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-web-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-web-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-web-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webflux-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webflux-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webflux-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webmvc-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webmvc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-webmvc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-websocket-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-websocket-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Cosas/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-websocket-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="spring/bin"/>
+</classpath>
